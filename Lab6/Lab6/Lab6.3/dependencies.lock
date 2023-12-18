@@ -1,0 +1,15 @@
+dependencies:
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.0
+  protocol_examples_common:
+    component_hash: null
+    source:
+      path: /home/ubuntu/esp/esp-idf/examples/common_components/protocol_examples_common
+      type: local
+    version: '*'
+manifest_hash: 8818dd2b32871c2ea6902a399090a65c918b89a9f543e9272b74e6d1973d733b
+target: esp32c3
+version: 1.0.0

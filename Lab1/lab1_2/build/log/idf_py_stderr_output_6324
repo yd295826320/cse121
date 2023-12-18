@@ -1,0 +1,7 @@
+[0;33m--- esp-idf-monitor 1.3.1 on /dev/ttyACM0 115200 ---[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H ---[0m
+[0;33m0x4004c512: uart_rx_one_char in ROM
+[0m
+[0;33m0x403805ee: esp_restart_noos at /home/ubuntu/esp/esp-idf/components/esp_system/port/soc/esp32c3/system_internal.c:108 (discriminator 1)
+[0m
+[0m
